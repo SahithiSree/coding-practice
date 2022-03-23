@@ -5,6 +5,13 @@ for i in range(l):
     print("\n")
     
 '''
+
+l=int(input())
+for i in range(l+1):
+        print('*'*i)
+'''
+    
+'''
 o/p:4
 *
 
