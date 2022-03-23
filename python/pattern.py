@@ -4,7 +4,8 @@ for i in range(l):
         print('*',end="")
     print("\n")
     
-'''
+    
+'''(or)
 
 l=int(input())
 for i in range(l+1):
